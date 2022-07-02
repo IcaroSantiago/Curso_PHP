@@ -308,6 +308,16 @@
                                     Desafio Palindromo
                                 </a> 
                             </li>
+                            <li>
+                                <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                                    Argumentos Variaveis
+                                </a> 
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=funcoes&file=args_padrao">
+                                    Argumento Padrão
+                                </a> 
+                            </li>
                         </ul>
                     </div>
 
